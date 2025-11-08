@@ -15,7 +15,7 @@ I’m passionate about exploring <b>AI, Data, and Design</b> - and building thin
 - 💡 **Creative experiments** - blending tech, design, and a dash of curiosity  
 - 🧾 **Notes**, **experiments**, and **fun projects** from my engineering journey at <b>SPPU</b>  
 
-> Whether you’re here to learn, collaborate, or just explore — you’re in the right place! 😄  
+> Whether you’re here to learn, collaborate, or just explore - you’re in the right place! 😄  
 
 ---
 
