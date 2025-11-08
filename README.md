@@ -22,8 +22,8 @@ I’m passionate about exploring <b>AI, Data, and Design</b> - and building thin
 ### 🤝 Let’s Connect, Learn & Grow Together
 
 <p align="center">
-<a href="https://www.instagram.com/sahil.thite.01/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sahil-thite-2582a9231/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/sahil.thite.01/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>You bring the curiosity, I’ll bring the code ☕💻</i></p>
