@@ -1,5 +1,5 @@
 <!-- Animated header (optional GIF or emoji intro) -->
-<h2 align="center">🌸 Hey there, I’m <b>Sahil Thite</b> — So glad you’re here!</h2>
+<h2 align="center">Hey there, I’m <b>Sahil Thite</b> — So glad you’re here!</h2>
 
 <p align="center">
 Welcome to my little corner of <b>GitHub</b>! <br>
