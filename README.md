@@ -10,10 +10,17 @@ I’m passionate about exploring <b>AI, Data, and Design</b> - and building thin
 
 ### 🌟 What You'll Find Here
 
-- 📊 **Data Analytics dashboards** - Power BI, Python, and Excel for insights that matter
+-  **Data Analytics dashboards** - Power BI, Python, and Excel for insights that matter 
+-  **Deep Learning & AI projects** - exploring Computer Vision and intelligent systems  
+-  **Creative experiments** - blending tech, design, and a dash of curiosity  
+-  **Notes**, **experiments**, and **fun projects** from my engineering journey at <b>SPPU</b>
+
+
+<!-- - 📊 **Data Analytics dashboards** - Power BI, Python, and Excel for insights that matter 
 - 🧠 **Deep Learning & AI projects** - exploring Computer Vision and intelligent systems  
 - 💡 **Creative experiments** - blending tech, design, and a dash of curiosity  
 - 🧾 **Notes**, **experiments**, and **fun projects** from my engineering journey at <b>SPPU</b>  
+-->
 
 > Whether you’re here to learn, collaborate, or just explore - you’re in the right place! 😄  
 
